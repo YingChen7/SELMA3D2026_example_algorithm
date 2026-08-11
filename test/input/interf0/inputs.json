@@ -1,0 +1,19 @@
+[
+    {
+        "socket": {
+            "slug": "light-sheet-3d-microscopy",
+            "relative_path": "images/light-sheet-3d-microscopy",
+            "is_image_kind": true,
+            "is_panimg_kind": true,
+            "is_dicom_image_kind": false,
+            "is_json_kind": false,
+            "is_file_kind": false,
+            "is_json_file_kind": false
+        },
+        "file": null,
+        "image": {
+            "name": "cell_nuclei_2301.mha"
+        },
+        "value": null
+    }
+]
