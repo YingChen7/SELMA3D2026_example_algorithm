@@ -1,4 +1,4 @@
-# SELMA3D 2026: Example for building a container image of your algorithm for Preliminary Development Phase Task 1 without SSL
+# SELMA3D 2026: Example for building a container image of your algorithm for Preliminary Development Phase Task without SSL
 
 ### Step 1: Implement your solution  
 * In [requirements.txt](requirements.txt), list the packages required for your solution.
