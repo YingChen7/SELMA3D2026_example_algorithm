@@ -141,7 +141,7 @@ def interf0_handler(model):
                             overlap = 0.5,
                             mode = 'gaussian')
     with torch.no_grad():
-        output_logits = model_inferer(input)
+        output_logits = model_inferer(model_input)
     prob = torch.sigmoid(output_logits)
     output_isolated_biological_structure = prob[0, 0].detach().cpu().numpy()
     output_isolated_biological_structure = (output_isolated_biological_structure>0.5).astype(numpy.int8) 
