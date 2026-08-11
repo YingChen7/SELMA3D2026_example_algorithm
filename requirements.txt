@@ -1,0 +1,5 @@
+numpy
+SimpleITK
+fastapi
+uvicorn
+monai
